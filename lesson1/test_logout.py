@@ -25,6 +25,8 @@ def test_logout():
 
 
 
+
+
     time.sleep(2)
 
     logout_button = driver.find_element(By.ID, 'logout_sidebar_link')
